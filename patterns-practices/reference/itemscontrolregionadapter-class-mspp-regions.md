@@ -15,7 +15,7 @@ Adapter that creates a new [AllActiveRegion](/patterns-practices/reference/allac
 
 ## Syntax
 ```C#
-public class ItemsControlRegionAdapter : RegionAdapterBase&lt;ItemsControl&gt;
+public class ItemsControlRegionAdapter : RegionAdapterBase<ItemsControl>
 ```
 ## Inheritance Hierarchy
 
